@@ -1,0 +1,20 @@
+DEFAULT_PORT = 9000
+HOST = "0.0.0.0"
+
+STORAGE_PATH = "./storage"
+MENSAJE_FIN = "FIN"
+
+CHUNK_SIZE = 1400
+
+# OPERATIONS
+OP_UPLOAD = 0x01
+OP_DOWNLOAD = 0x02
+
+# files
+DEFAULT_STORAGE_FILE_NAME = "file.txt"
+DEFAULT_STORAGE_FILE_PATH = "storage"
+
+# queues
+QUEUE_FINISHED_CLIENTS = "finished_clients"
+IN_QUEUE = "in_queue"
+SENDER_QUEUE = "sender"
