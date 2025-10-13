@@ -6,6 +6,6 @@
 - [📔 NotebookLM: Chat bot con bibliografia](https://notebooklm.google.com/notebook/48c7b85d-83c8-4403-ad0c-14dca5c8b14e)
 - [💻 Repo Martin Bucca](https://github.com/martinbucca/Redes/tree/main)
 
-## Resoluciones
+## RESOLUCION DE PARCIALES
 - [PARCIAL 1C2025](https://miro.com/app/board/uXjVJ7sE4bo=/)
 - [VARIOS PARCIALES](https://miro.com/app/board/uXjVIulMLRw=/)
