@@ -7,5 +7,5 @@
 - [💻 Repo Martin Bucca](https://github.com/martinbucca/Redes/tree/main)
 
 ## RESOLUCION DE PARCIALES
-- [PARCIAL 1C2025](https://miro.com/app/board/uXjVJ7sE4bo=/)
-- [VARIOS PARCIALES](https://miro.com/app/board/uXjVIulMLRw=/)
+- [⭐ PARCIAL 1C2025](https://miro.com/app/board/uXjVJ7sE4bo=/)
+- [⭐ VARIOS PARCIALES](https://miro.com/app/board/uXjVIulMLRw=/)
