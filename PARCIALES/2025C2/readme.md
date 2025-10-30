@@ -16,7 +16,6 @@
 13) traceroute, F, V (al menos uno), F, V
 14) 9500, F, F, F
 
-
 ## Tema 2:
 1) 4
 2) 2, 72, 596, 576, 1, 0
