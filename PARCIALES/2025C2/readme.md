@@ -29,5 +29,5 @@
 10) 64
 11) 1519
 12) dig facebook.com, V, F
-13) netstat, F, V, F, F
+13) netstat, V, V, F, F
 14) 9500, F, F, F
